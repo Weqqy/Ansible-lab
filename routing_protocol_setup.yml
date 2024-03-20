@@ -22,4 +22,4 @@
       with_items: "{{ ospf_networks }}"
 
   vars_files:
-    - inventory.yaml
+    - inventory.yml
